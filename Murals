@@ -1,0 +1,9 @@
+---
+layout: Murals
+title: Murals
+---
+<p>This map contains a selection of about 1,000 murals from the Robin Dunitz Mural archive. These mural locations are possible to map because the original metadata from the colleciton had latitude and longitude information.</p>
+
+<p><iframe allowfullscreen="" frameborder="0" height="520" mozallowfullscreen="" msallowfullscreen="" oallowfullscreen="" src="https://cartorutkowski.carto.com/builder/a73aca6a-3ead-456e-b3e1-ede980355ca2/embed" webkitallowfullscreen="" width="100%"></iframe></p>
+
+
